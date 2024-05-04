@@ -9,21 +9,20 @@
 ## 🛠️ Technologies & Tools
 
 ### Languages
-- JavaScript (ES6+)
-- Python
-- Java
-- C
-
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
+- ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
+- ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat)
+- ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=flat)
 ### Frameworks & Libraries
 - MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- Flask
-- GSAP (GreenSock Animation Platform)
-- Chakra UI
-- Tailwind CSS
-- 
+- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+- ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+- ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
 ### Databases
-- MySQL
-- MongoDB
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
 
