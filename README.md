@@ -35,7 +35,7 @@
 
 ## 👀 Profile Views
 
-![Profile views](https://gpvc.arturio.dev/MaazS07)
+![Profile views](https://img.shields.io/github/profile-views/MaazS07/MaazS07?style=for-the-badge)
 
 
 
