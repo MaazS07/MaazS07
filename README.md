@@ -34,7 +34,7 @@
 
 ## 👀 Profile Views
 
-![Profile views](https://img.shields.io/github/profile-views/MaazS07/MaazS07?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=MaazS07&label=Profile+Views&color=0e75b6&style=flat)
 
 
 
