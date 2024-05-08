@@ -4,7 +4,7 @@
 
 🎓 I'm a tech enthusiast currently pursuing my Second Year BTech in Computer Science (Data Science) at Dwarkadas J. Sanghvi College of Engineering.
 
-💻 I am passionate in Web Development and Data Science , looking forward to contribute i future.
+💻 I am passionate in Web Development and Data Science , looking forward to contribute in future.
 
 ## 🛠️ Technologies & Tools
 
