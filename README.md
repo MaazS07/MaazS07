@@ -54,7 +54,7 @@
 
 #### 🔧 Tools  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-`Kafka` `QGIS` `Excel.js` `Tableau` `Git`
+`Kafka` `QGIS` `Tableau` `Git`
 
 ---
 
