@@ -1,48 +1,97 @@
-# Hello Everyone, I'm Maaz Saboowala! 👋
+<h1 align="center">🚀 Maaz Saboowala</h1>
+<h3 align="center">AI Engineer • Full Stack Dev </h3>
 
-## 🚀 About Me
+<p align="center">
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Transforming+code+into+intelligence.;Development+✦+Research+✨+Machine+Learning+🚀" alt="Typing SVG" />
+</p>
 
-🎓 I'm a tech enthusiast currently pursuing my Second Year BTech in Computer Science (Data Science) at Dwarkadas J. Sanghvi College of Engineering.
+</p>
 
-💻 I am passionate in Web Development and Data Science , looking forward to contribute in future.
+---
 
-## 🛠️ Technologies & Tools
+### 🧠 About Me
 
-### Languages
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
-- ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
-- ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat)
-- ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=flat)
-### Frameworks & Libraries
-- MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-- ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-- ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- 🎓 B.Tech CSE (Data Science) + Hons. in Computational Finance @ DJSCE   
+- 🛰️ **Finalist @ ISRO Hackathon 2024** — Lunar Rover Navigation @ South Pole  
+- 🧬 Drug Discovery using GenAI: ChemGenRL (Stack-RNN + GRU + RL)  
+- 🧠 BrainWave – AI Doc-to-Quiz Generator | RAG + LLaMA + TTS  
+- 📧 [maazsaboowala07@gmail.com](mailto:maazsaboowala07@gmail.com)
 
-### Databases
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+---
 
-## 📊 GitHub Stats
+### 🧪 Featured Projects
 
-![Maaz Saboowala's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaazS07&show_icons=true&theme=dark)
+🚀 **[Lunar Navigation System](https://github.com/MaazS07/Lunar_Navigation_Frontend)**  
+*Built for ISRO BAH'24 @ NRSC Hyderabad*  
+`Three.js` `OpenCV` `QGIS` `React` `RL + PRM` `A*` `RRT*`  
+> Terrain-aware lunar path planner using crater detection and elevation analysis.
 
-## 💬 Top Languages
+🧬 **[ChemGenRL](https://github.com/MaazS07/ED1of1)**  
+*Drug design using GenAI + RL*  
+`GRU` `GAN` `VAE` `Reinforcement Learning`  
+> Designed DPP-4 inhibitors with 96.3% structural validity and improved QED/logP.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazS07&layout=compact&theme=dark)](https://github.com/MaazS07)
+🛒 **[CommerSigh](https://github.com/MaazS07/CommerSigh)**  
+*E-commerce insights platform using web scraping*  
+`Docker` `React` `Node.js` `MongoDB` `Kafka` `Firebase`  
+> Track products, analyze SEO, manage data via Excel.
 
-## 👀 Profile Views
+🧠 **[BrainWave](https://github.com/MaazS07/ED1of1)**  
+> RAG-based platform to convert documents into quizzes and flashcards with video explanations.
 
-![Profile views](https://komarev.com/ghpvc/?username=MaazS07&label=Profile+Views&color=0e75b6&style=flat)
+---
 
+### 🛠️ Tech Stack
 
+#### 🧠 AI & ML  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+`TensorFlow` `PyTorch` `Scikit-Learn` `LSTM` `RL` `LLMs` `RAG`
 
-## 🌐 Connect with Me
+#### 🌐 Web Dev  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+`Next.js` `Node.js` `Express` `MongoDB` `TailwindCSS` `Firebase`
 
-📫 Reach out to me through the following platforms:
-- [LinkedIn](https://www.linkedin.com/in/maaz-saboowala/)
-- [Email](mailto:maazsaboowala07@gmail.com)
+#### 🔧 Tools  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+`Kafka` `QGIS` `Excel.js` `Tableau` `Git`
 
+---
 
-Let's learn and develop ourself first , then technology ! 🚀
+### 🏆 Achievements
+
+- 🥇 **Winners – ERR_404 6.0**  
+- 🥈 **Datahack 3.0 – 2nd Runners-Up**  
+- 🥉 **1st Runners-Up – DJS Sanshodhan (IPD)**  
+- 🛰️ **Top 30 out of 34,000 – ISRO Hackathon Grand Finalist**
+
+---
+
+### 📊 GitHub Stats (Dark Mode)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaazS07&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaazS07&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaazS07&theme=github_dark" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:maazsaboowala07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/maaz-saboowala-6127b527a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MaazS07"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<h4 align="center">Building, breaking & rebuilding the future — one repo at a time ⚡</h4>
