@@ -12,7 +12,8 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Tech CSE (Data Science) + Hons. in Computational Finance @ DJSCE   
+- 🎓 B.Tech CSE (Data Science) + Hons. in Computational Finance @ DJSCE
+- 🧪 3X Winner (Datahack 3.0 , ERR. 404 6.0 , DJS Sanshodhan)
 - 🛰️ **Finalist @ ISRO Hackathon 2024** — Lunar Rover Navigation @ South Pole  
 - 🧬 Drug Discovery using GenAI: ChemGenRL (Stack-RNN + GRU + RL)  
 - 🧠 BrainWave – AI Doc-to-Quiz Generator | RAG + LLaMA + TTS  
